@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|c:\\users\\joice\\documents\\estudos\\c#\\screensound4\\screensound4\\filtros\\linqfiltros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|solutionrelative:screensound4\\filtros\\linqfiltros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|c:\\users\\joice\\documents\\estudos\\c#\\screensound4\\screensound4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|solutionrelative:screensound4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|c:\\users\\joice\\documents\\estudos\\c#\\screensound4\\screensound4\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|solutionrelative:screensound4\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|c:\\users\\joice\\documents\\estudos\\c#\\screensound4\\screensound4\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|solutionrelative:screensound4\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|c:\\users\\joice\\documents\\estudos\\c#\\screensound4\\screensound4\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E7C4D4-2B3B-44C2-A4EE-6BF305A02050}|ScreenSound4\\ScreenSound4.csproj|solutionrelative:screensound4\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Filtros\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "ScreenSound4\\Filtros\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Filtros\\LinqOrder.cs",
+              "RelativeToolTip": "ScreenSound4\\Filtros\\LinqOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:54:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound4\\Program.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Program.cs",
+              "RelativeToolTip": "ScreenSound4\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:07:09.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound4\\Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Modelos\\Musica.cs",
+              "RelativeToolTip": "ScreenSound4\\Modelos\\Musica.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:25:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Modelos\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "ScreenSound4\\Modelos\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Modelos\\MusicasPreferidas.cs",
+              "RelativeToolTip": "ScreenSound4\\Modelos\\MusicasPreferidas.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA1wDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:20:46.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqFiltros.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Filtros\\LinqFiltros.cs",
+              "RelativeDocumentMoniker": "ScreenSound4\\Filtros\\LinqFiltros.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\C#\\ScreenSound4\\ScreenSound4\\Filtros\\LinqFiltros.cs",
+              "RelativeToolTip": "ScreenSound4\\Filtros\\LinqFiltros.cs",
+              "ViewState": "AQIAACgAAADAzMzMzMwhwDEAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:42:56.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
